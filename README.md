@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Het+%F0%9F%91%8B;MS+Cybersecurity+%40+Northeastern" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=300&color=00C8FF&center=true&vCenter=true&width=600&lines=Ify%2C+A'v+Oly+%F0%9F%94%90;Hey%2C+I'm+Het+%F0%9F%91%8B;MS+Cybersecurity+%40+Northeastern" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -65,8 +65,8 @@ Every repo here is where theory meets practice — hands-on labs in exploit deve
 
 | Lab | Skills | Link |
 |-----|--------|------|
-| 🔓 **Ret2Libc Buffer Overflow** | Exploit dev, GDB, NX bypass, SUID escalation | [View →](https://github.com/Het0221/Ret2lib_Bufferoverflow) |
-| 🔥 **Enterprise Firewall & Access Control** | IPFire, NAT, zero-trust, threat intel blocking | [View →](https://github.com/Het0221/Enterprise-Firewall) |
+| 🔓 **Ret2Libc Buffer Overflow** | Exploit dev, GDB, NX bypass, SUID escalation | [View →](https://github.com/hetpatel2102/Ret2lib_Bufferoverflow) |
+| 🔥 **Enterprise Firewall & Access Control** | IPFire, NAT, zero-trust, threat intel blocking | [View →](https://github.com/hetpatel2102/Enterprise-Firewall) |
 
 ---
 
