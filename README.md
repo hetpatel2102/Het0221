@@ -76,12 +76,10 @@ Currently seeking **cybersecurity engineering roles** where I can apply hands-on
 
 ---
 
-## 📊 GitHub Stats
+## 📜 Certifications
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Het0221&show_icons=true&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Het0221&theme=dark&hide_border=true" />
+  <img src="https://img.shields.io/badge/CompTIA_Security+-FF0000?style=for-the-badge&logo=comptia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cybersecurity_Professional-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Network_%26_Network_Security-34A853?style=for-the-badge&logo=google&logoColor=white" />
 </p>
