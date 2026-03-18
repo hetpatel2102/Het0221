@@ -71,6 +71,7 @@ Every repo here is where theory meets practice — hands-on labs in exploit deve
   <img src="https://img.shields.io/badge/Google_Cybersecurity_Professional-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Network_%26_Network_Security-34A853?style=for-the-badge&logo=google&logoColor=white" />
 </p>
+
 ---
 
 ## 🧪 Featured Labs
@@ -79,6 +80,7 @@ Every repo here is where theory meets practice — hands-on labs in exploit deve
 |-----|--------|------|
 | 🔓 **Ret2Libc Buffer Overflow** | Exploit dev, GDB, NX bypass, SUID escalation | [View →](https://github.com/hetpatel2102/Ret2lib_Bufferoverflow) |
 | 🔥 **Enterprise Firewall & Access Control** | IPFire, NAT, zero-trust, threat intel blocking | [View →](https://github.com/hetpatel2102/Enterprise-Firewall) |
+| 🛡️ **SELinux Apache Hardening** | SELinux enforcing, port labeling, TLS cert context, AVC logs, sudo role transitions | [View →](https://github.com/hetpatel2102/SELinux-Apache-Hardening) |
 
 ---
 
@@ -89,5 +91,3 @@ Building expertise at the intersection of **offensive security** and **defensive
 Currently seeking **cybersecurity engineering roles** where I can apply hands-on technical skills to real-world security challenges.
 
 ---
-
-
