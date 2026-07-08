@@ -64,6 +64,15 @@ Every repo here is where theory meets practice — hands-on labs in exploit deve
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
+## 🚩 Flagship Build
+
+### 🚨 Sentry — Windows Security Suite
+A packaged Windows security tool that automates system auditing and live process scanning to surface threats a manual review would miss. Built in Python, shipped as a standalone `.exe` — no setup, just run.
+
+**[Explore Sentry →](https://github.com/hetpatel2102/Sentry_1.0.0)**
+
+---
+
 ## 📜 Certifications
 
 <p align="center">
